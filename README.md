@@ -12,22 +12,22 @@ Command-Line Version (hangmancmd.py)
 4. Celebration animation on winning
 
 GUI Version (TEAM1_Hangman.py)
-✅ Pygame-based graphical interface
-✅ Displays the Hangman drawing as the game progresses
-✅ Uses a predefined word list with hint fetching
-✅ Animated winning celebration
+1. Pygame-based graphical interface
+2. Displays the Hangman drawing as the game progresses
+3. Uses a predefined word list with hint fetching
+4. Animated winning celebration
 
 ## How to Run
 ### Running the Command-Line Version
-Install dependencies:
+#### Install dependencies:
 pip install requests
-Run the script:
+#### Run the script:
 python hangmancmd.py
 
 ### Running the Pygame GUI Version
-Install dependencies:
+#### Install dependencies:
 pip install pygame requests
-Run the script:
+#### Run the script:
 python TEAM1_Hangman.py
 
 ## Requirements
