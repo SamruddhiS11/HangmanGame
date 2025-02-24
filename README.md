@@ -6,10 +6,10 @@ TEAM1_Hangman.py: A graphical version built with Pygame, displaying a visual han
 
 Features
 Command-Line Version (hangmancmd.py)
-✅ Fetches random words using an API
-✅ Provides hints from a dictionary API
-✅ ASCII-based Hangman graphics
-✅ Celebration animation on winning
+1. Fetches random words using an API
+2. Provides hints from a dictionary API
+3. ASCII-based Hangman graphics
+4. Celebration animation on winning
 
 GUI Version (TEAM1_Hangman.py)
 ✅ Pygame-based graphical interface
